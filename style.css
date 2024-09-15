@@ -87,7 +87,11 @@ nav{
 }
 
 .hover-link:active {
-    color: var(--primary-color);
+color: red;
+}
+
+.nav-item.active{
+    color: blue;
 }
 
 .search-bar {
